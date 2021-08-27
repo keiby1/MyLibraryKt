@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd3efe7-cfcf-4303-8a35-0b04b3982db8" name="Default Changelist" comment="" />
+    <list default="true" id="7bd3efe7-cfcf-4303-8a35-0b04b3982db8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1xK5VQMoC7lzcN7t1EL7v7cAEVF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +30,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Library" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -42,6 +62,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1010" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1630091311647">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1630091311647" />
+    <state x="1060" y="459" key="FileChooserDialogImpl" timestamp="1630091349003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1630091349003" />
+    <state x="760" y="278" key="SettingsEditor" timestamp="1630091313439">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="278" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1630091313439" />
     <state x="662" y="428" key="new project wizard" timestamp="1630091020252">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
